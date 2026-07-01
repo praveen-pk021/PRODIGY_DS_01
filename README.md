@@ -79,45 +79,29 @@ Insights
 
 ## 📈 Visualizations
 
-### Histogram of Population Distribution
+## 📊 Visualizations
 
-![Histogram](Images/population_histogram.png)
+### Population Distribution Histogram
+
+![Population Histogram](Images/population_histogram.png)
+
+---
+
+### Population Distribution KDE
+
+![Population KDE](Images/population_kde.png)
 
 ---
 
 ### Top 10 Most Populated Countries
 
-![Top10](Images/top10_countries.png)
+![Top Countries](Images/top_countries_bar.png)
 
 ---
 
-### Population by Continent
+### Combined Analysis Dashboard
 
-![Continent](Images/continent_population.png)
-
----
-
-### Population Distribution Box Plot
-
-![Boxplot](Images/population_boxplot.png)
-
----
-
-### Population Share by Continent
-
-![Pie Chart](Images/population_piechart.png)
-
----
-
-### Growth Rate Distribution
-
-![Growth](Images/growth_rate_distribution.png)
-
----
-
-### Correlation Heatmap
-
-![Heatmap](Images/correlation_heatmap.png)
+![Dashboard](Images/population_analysis_dashboard.png)
 
 ---
 
